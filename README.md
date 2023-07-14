@@ -1,6 +1,6 @@
 # Inverloch's Marine Habitats - Interactive Map
 
-This repository contains a demonstration of how to create a simple interactive map of marine coastal habitat's using Python code inside a Jupyter Notebook.
+This repository contains a demonstration of how to create a simple interactive map of marine coastal habitats using Python code inside a Jupyter Notebook.
 
 The area chosen for this case study is the coastline surrounding the town of Inverloch in Victoria, Australia. Three datasets are used in this study:
 - A Zone of Interest, defined by drawing a 5km bufferzone around the postcode boundaries of Inverloch.
